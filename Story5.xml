@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<restaurant>
+<servicios>
 
-  <menu category="breakfast">
+  <evento category="cateringDesayuno">
     <drink temperature="hot">Coffee</drink>
     <drink temperature="cold">Juice</drink>
-    <food>Fruit</food>
-    <food>Waffle</food>
-    <food>Pancakes</food>
+    <food type="starter">Fruit</food>
+    <food type="starter">Waffle</food>
+    <food type="starter">Pancakes</food>
     <price age="adult">5 €</price>
     <price age="child">3,5 €</price>
-  </menu>
+  </evento>
 
-  <menu category="lunch">
+  <evento category="cateringAlmuerzo">
     <drink temperature="cold">Beer</drink>
     <drink temperature="cold">Soft driks</drink>
     <food type="starter">Gazpacho</food>
@@ -21,23 +21,23 @@
     <food type="dessert">Helado</food>
     <price age="adult">12 €</price>
     <price age="child">10 €</price>
-  </menu>
+  </evento>
 
-  <menu category="brunch">
+  <evento category="cateringBrunch">
     <drink temperature="hot">Coffee</drink>
     <drink temperature="hot">Tea</drink>
-    <food>Biscuits</food>
+    <food type="starter">Biscuits</food>
     <price age="adult">3 €</price>
     <price age="child">2 €</price>
-  </menu>
+  </evento>
 
-  <menu category="dinner">
+  <evento category="cateringCena">
     <drink temperature="cold">Wine</drink>
     <drink temperature="cold">Soft driks</drink>
     <food type="starter">Pasta</food>
     <food type="first">Pizza</food>
     <price age="adult">9 €</price>
     <price age="child">7 €</price>
-  </menu>
+  </evento>
 
-</restaurant>
+</servicios>
