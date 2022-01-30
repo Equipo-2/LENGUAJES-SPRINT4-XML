@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<menuRestaurante
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="story11.xsd">
+
+  <plato category="entrante">
+    <nombre lang="es">Tabla de jamón ibérico</nombre>
+    <precio>7.0</precio>
+    <ingredientes>Jamón ibérico, aceite de oliva y sal del mar</ingredientes>
+  </plato>
+
+  <plato category="entrante">
+    <nombre lang="es">Tabla de queso de oveja</nombre>
+    <precio>5.0</precio>
+    <ingredientes>Queso de oveja, sin oveja</ingredientes>
+  </plato>  
+
+  <plato category="entrante">
+    <nombre lang="es">Anchoas del cantábrico</nombre>
+    <precio>5.5</precio>
+    <ingredientes>Anchoas, aceite de oliva, sal del mar</ingredientes>
+  </plato>  
+
+  <plato category="principal">
+    <nombre lang="es">Rabo de ternera en su jugo</nombre>
+    <precio>12.0</precio>
+    <ingredientes>Ternera, jugo de ternera, patatas a lo pobre</ingredientes>
+  </plato>
+
+  <plato category="principal">
+    <nombre lang="es">Plato de los montes</nombre>
+    <precio>10.0</precio>
+    <ingredientes>Lomo de cerdo, morcilla, patatas a lo pobre, pimientos fritos, huevo frito</ingredientes>
+  </plato>
+
+  <plato category="principal">
+    <nombre lang="es">Huevo roto con criollo</nombre>
+    <precio>8.0</precio>
+    <ingredientes>Criollo, huevo roto, aceitunas para acompañar</ingredientes>
+  </plato>
+
+  <plato category="principal">
+    <nombre lang="es">Croquetas de bacalao</nombre>
+    <precio>7.5</precio>
+    <ingredientes>Bacalao, harina, pan rallado</ingredientes>
+  </plato>
+
+  <plato category="postre">
+    <nombre lang="es">Brownie</nombre>
+    <precio>5</precio>
+    <ingredientes>Chocolate, helado de vainilla, más chocolate</ingredientes>
+  </plato>
+
+  <plato category="postre">
+    <nombre lang="es">Natillas caseras</nombre>
+    <precio>3</precio>
+    <ingredientes>Leche, yemas de huevo, azúcar, vainilla, galleta María</ingredientes>
+  </plato>
+
+  <plato category="postre">
+    <nombre lang="es">Tarta de zanahoria</nombre>
+    <precio>5</precio>
+    <ingredientes>Huevo, azúcar, zanahoria</ingredientes>
+  </plato>
+
+</menuRestaurante>
