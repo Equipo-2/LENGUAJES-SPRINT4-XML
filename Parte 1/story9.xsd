@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema">
+
+<xs:element name="menuRestaurante">
+  <xs:complexType>
+    <xs:sequence>
+      <xs:element name="plato" maxOccurs="unbounded" minOccurs="0">
+        <xs:complexType>
+          <xs:sequence>
+            <xs:element name="nombre">
+              <xs:complexType>
+                <xs:simpleContent>
+                  <xs:extension base="xs:string">
+                    <xs:attribute type="xs:string" name="lang" use="optional"/>
+                  </xs:extension>
+                </xs:simpleContent>
+              </xs:complexType>
+            </xs:element>
+            <xs:element type="xs:float" name="precio"/>
+            <xs:element type="xs:string" name="ingredientes"/>
+          </xs:sequence>
+          <xs:attribute type="xs:string" name="category" use="optional"/>
+        </xs:complexType>
+      </xs:element>
+    </xs:sequence>
+  </xs:complexType>
+</xs:element>
+
+</xs:schema>
