@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+
+<channel>
+  <title>Dream Team Store</title>
+  <link>http://dreamteam.x10.bz/index.html</link>
+  <description>Tienda líder en merchandising sobre videjuegos.</description>
+  <item>
+    <title>Conócenos - Dream Team</title>
+    <link>http://dreamteam.x10.bz/aboutUs.html</link>
+    <description>Tienda líder en merchandising sobre videjuegos.</description>
+  </item>
+  <item>
+    <title>Tienda - Dream Team</title>
+    <link>http://dreamteam.x10.bz/services.html</link>
+    <description>Tienda líder en merchandising sobre videjuegos.</description>
+  </item>
+    <item>
+    <title>Galería - Dream Team</title>
+    <link>http://dreamteam.x10.bz/galeria.html</link>
+    <description>Tienda líder en merchandising sobre videjuegos.</description>
+  </item>
+    <item>
+    <title>Contacto - Dream Team</title>
+    <link>http://dreamteam.x10.bz/contacto.html</link>
+    <description>Tienda líder en merchandising sobre videjuegos.</description>
+  </item>
+  <copyright>2021 © Dream Team Store</copyright>
+  <language>es-es</language>
+</channel>
+
+</rss>
