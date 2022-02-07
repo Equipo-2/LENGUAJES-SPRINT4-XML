@@ -1,296 +1,297 @@
 <?xml version="1.0" encoding="UTF-8"?>
+
 <equipofutbol>
-<equipo category="equipo1">
-<title lang ="es"> Equipo 1 </title>
-<nombreEquipo> Los Limones </nombreEquipo>
-<ranking> 3 </ranking>
-<jugador>
-<nombre>Aleviatán Cabrera</nombre>
-<edad>19</edad>
-<sueldo>9000</sueldo>
-<tipo>Titular</tipo>
-</jugador>
-<jugador>
-<nombre>Alexito</nombre>
-<edad>29</edad>
-<sueldo>2000</sueldo>
-<tipo>Titular</tipo>
-</jugador>
-<jugador>
-<nombre>Alexita</nombre>
-<edad>39</edad>
-<sueldo>900</sueldo>
-<tipo>Suplente</tipo>
-</jugador>
-<jugador>
-<nombre>Alejandro</nombre>
-<edad>69</edad>
-<sueldo>7000</sueldo>
-<tipo>Titular</tipo>
-</jugador>
-<jugador>
-<nombre>Miguel</nombre>
-<edad>59</edad>
-<sueldo>3900</sueldo>
-<tipo>Titular</tipo>
-</jugador>
-<jugador>
-<nombre>Pepe</nombre>
-<edad>27</edad>
-<sueldo>700</sueldo>
-<tipo>Titular</tipo>
-</jugador>
-<jugador>
-<nombre>Julia</nombre>
-<edad>20</edad>
-<sueldo>7000</sueldo>
-<tipo>Titular</tipo>
-</jugador>
-<jugador>
-<nombre>Lucas</nombre>
-<edad>23</edad>
-<sueldo>6500</sueldo>
-<tipo>Titular</tipo>
-</jugador>
-<jugador>
-<nombre>Hugo</nombre>
-<edad>19</edad>
-<sueldo>1400</sueldo>
-<tipo>Titular</tipo>
-</jugador>
-<jugador>
-<nombre>Paulina</nombre>
-<edad>34</edad>
-<sueldo>1300</sueldo>
-<tipo>Titular</tipo>
-</jugador>
-<jugador>
-<nombre>Marcelo</nombre>
-<edad>65</edad>
-<sueldo>800</sueldo>
-<tipo>Titular</tipo>
-</jugador>
-<jugador>
-<nombre>Yolanda</nombre>
-<edad>15</edad>
-<sueldo>400</sueldo>
-<tipo>Titular</tipo>
-</jugador>
-</equipo>
+    <equipo category="equipo1">
+        <title lang ="es"> Equipo 1 </title>
+        <nombreEquipo> Los Limones </nombreEquipo>
+        <ranking> 3 </ranking>
+        <jugador>
+            <nombre>Aleviatán Cabrera</nombre>
+            <edad>19</edad>
+            <sueldo>9000</sueldo>
+            <tipo>Titular</tipo>
+        </jugador>
+        <jugador>
+            <nombre>Alexito</nombre>
+            <edad>29</edad>
+            <sueldo>2000</sueldo>
+            <tipo>Titular</tipo>
+        </jugador>
+        <jugador>
+            <nombre>Alexita</nombre>
+            <edad>39</edad>
+            <sueldo>900</sueldo>
+            <tipo>Suplente</tipo>
+        </jugador>
+        <jugador>
+            <nombre>Alejandro</nombre>
+            <edad>69</edad>
+            <sueldo>7000</sueldo>
+            <tipo>Titular</tipo>
+        </jugador>
+        <jugador>
+            <nombre>Miguel</nombre>
+            <edad>59</edad>
+            <sueldo>3900</sueldo>
+            <tipo>Titular</tipo>
+        </jugador>
+        <jugador>
+            <nombre>Pepe</nombre>
+            <edad>27</edad>
+            <sueldo>700</sueldo>
+            <tipo>Titular</tipo>
+        </jugador>
+        <jugador>
+            <nombre>Julia</nombre>
+            <edad>20</edad>
+            <sueldo>7000</sueldo>
+            <tipo>Titular</tipo>
+        </jugador>
+        <jugador>
+            <nombre>Lucas</nombre>
+            <edad>23</edad>
+            <sueldo>6500</sueldo>
+            <tipo>Titular</tipo>
+        </jugador>
+        <jugador>
+            <nombre>Hugo</nombre>
+            <edad>19</edad>
+            <sueldo>1400</sueldo>
+            <tipo>Titular</tipo>
+        </jugador>
+            <jugador>
+            <nombre>Paulina</nombre>
+            <edad>34</edad>
+            <sueldo>1300</sueldo>
+            <tipo>Titular</tipo>
+        </jugador>
+        <jugador>
+            <nombre>Marcelo</nombre>
+            <edad>65</edad>
+            <sueldo>800</sueldo>
+            <tipo>Titular</tipo>
+        </jugador>
+        <jugador>
+            <nombre>Yolanda</nombre>
+            <edad>15</edad>
+            <sueldo>400</sueldo>
+            <tipo>Titular</tipo>
+        </jugador>
+    </equipo>
 
-<equipo category="equipo2">
-<title lang ="es"> Equipo 2 </title>
-<nombreEquipo> Los Pijos </nombreEquipo> 
-<ranking> 4 </ranking>
-<jugador>
-<nombre>Ackerman</nombre>
-<edad>45</edad>
-<sueldo>999</sueldo>
-<tipo>Titular</tipo>
-</jugador>
-<jugador>
-<nombre>Kat</nombre>
-<edad>32</edad>
-<sueldo>990</sueldo>
-<tipo>Suplente</tipo>
-</jugador>
-<jugador>
-<nombre>Nacho</nombre>
-<edad>Juan</edad>
-<sueldo>766</sueldo>
-<tipo>Titular</tipo>
-</jugador>
-<jugador>
-<nombre>Massimo</nombre>
-<edad>28</edad>
-<sueldo>9000</sueldo>
-<tipo>Titular</tipo>
-</jugador>
-<jugador>
-<nombre>Manu</nombre>
-<edad>29</edad>
-<sueldo>2250</sueldo>
-<tipo>Titular</tipo>
-</jugador>
-<jugador>
-<nombre>Alberto</nombre>
-<edad>15</edad>
-<sueldo>4000</sueldo>
-<tipo>Titular</tipo>
-</jugador>
-<jugador>
-<nombre>Jean</nombre>
-<edad>40</edad>
-<sueldo>1200</sueldo>
-<tipo>Suplente</tipo>
-</jugador>
-<jugador>
-<nombre>Kim</nombre>
-<edad>19</edad>
-<sueldo>6511</sueldo>
-<tipo>Titular</tipo>
-</jugador>
-<jugador>
-<nombre>Toño</nombre>
-<edad>30</edad>
-<sueldo>4500</sueldo>
-<tipo>Titular</tipo>
-</jugador>
-<jugador>
-<nombre>Link</nombre>
-<edad>69</edad>
-<sueldo>6542</sueldo>
-<tipo>Titular</tipo>
-</jugador>
-<jugador>
-<nombre>Atila</nombre>
-<edad>52</edad>
-<sueldo>4678</sueldo>
-<tipo>Titular</tipo>
-</jugador>
-</equipo>
+    <equipo category="equipo2">
+        <title lang ="es"> Equipo 2 </title>
+        <nombreEquipo> Los Pijos </nombreEquipo> 
+        <ranking> 4 </ranking>
+        <jugador>
+            <nombre>Ackerman</nombre>
+            <edad>45</edad>
+            <sueldo>999</sueldo>
+            <tipo>Titular</tipo>
+        </jugador>
+        <jugador>
+            <nombre>Kat</nombre>
+            <edad>32</edad>
+            <sueldo>990</sueldo>
+            <tipo>Suplente</tipo>
+        </jugador>
+        <jugador>
+            <nombre>Nacho</nombre>
+            <edad>Juan</edad>
+            <sueldo>766</sueldo>
+            <tipo>Titular</tipo>
+        </jugador>
+        <jugador>
+            <nombre>Massimo</nombre>
+            <edad>28</edad>
+            <sueldo>9000</sueldo>
+            <tipo>Titular</tipo>
+        </jugador>
+        <jugador>
+            <nombre>Manu</nombre>
+            <edad>29</edad>
+            <sueldo>2250</sueldo>
+            <tipo>Titular</tipo>
+        </jugador>
+        <jugador>
+            <nombre>Alberto</nombre>
+            <edad>15</edad>
+            <sueldo>4000</sueldo>
+            <tipo>Titular</tipo>
+        </jugador>
+        <jugador>
+            <nombre>Jean</nombre>
+            <edad>40</edad>
+            <sueldo>1200</sueldo>
+            <tipo>Suplente</tipo>
+        </jugador>
+        <jugador>
+            <nombre>Kim</nombre>
+            <edad>19</edad>
+            <sueldo>6511</sueldo>
+            <tipo>Titular</tipo>
+        </jugador>
+        <jugador>
+            <nombre>Toño</nombre>
+            <edad>30</edad>
+            <sueldo>4500</sueldo>
+            <tipo>Titular</tipo>
+        </jugador>
+        <jugador>
+            <nombre>Link</nombre>
+            <edad>69</edad>
+            <sueldo>6542</sueldo>
+            <tipo>Titular</tipo>
+        </jugador>
+        <jugador>
+            <nombre>Atila</nombre>
+            <edad>52</edad>
+            <sueldo>4678</sueldo>
+            <tipo>Titular</tipo>
+        </jugador>
+    </equipo>
 
-<equipo category="equipo3">
-<title lang ="es"> Equipo 3 </title>
-<nombreEquipo> Los Poogramadores </nombreEquipo>
-<ranking> 1 </ranking>
-<jugador>
-<nombre>JR</nombre>
-<edad>19</edad>
-<sueldo>1399</sueldo>
-<tipo>Suplente</tipo>
-</jugador>
-<jugador>
-<nombre>Alejo</nombre>
-<edad>29</edad>
-<sueldo>1400</sueldo>
-<tipo>Titular</tipo>
-</jugador>
-<jugador>
-<nombre>Paquito</nombre>
-<edad>23</edad>
-<sueldo>7600</sueldo>
-<tipo>Titular</tipo>
-</jugador>
-<jugador>
-<nombre>Hestia</nombre>
-<edad>99</edad>
-<sueldo>9800</sueldo>
-<tipo>Titular</tipo>
-</jugador>
-<jugador>
-<nombre>Zeus</nombre>
-<edad>89</edad>
-<sueldo>1400</sueldo>
-<tipo>Titular</tipo>
-</jugador>
-<jugador>
-<nombre>Bardo</nombre>
-<edad>16</edad>
-<sueldo>5600</sueldo>
-<tipo>Titular</tipo>
-</jugador>
-<jugador>
-<nombre>Naruto</nombre>
-<edad>59</edad>
-<sueldo>1230</sueldo>
-<tipo>Titular</tipo>
-</jugador>
-<jugador>
-<nombre>Geralt</nombre>
-<edad>67</edad>
-<sueldo>3000</sueldo>
-<tipo>Titular</tipo>
-</jugador>
-<jugador>
-<nombre>Asta</nombre>
-<edad>23</edad>
-<sueldo>49</sueldo>
-<tipo>Titular</tipo>
-</jugador>
-<jugador>
-<nombre>Luffy</nombre>
-<edad>35</edad>
-<sueldo>9000</sueldo>
-<tipo>Titular</tipo>
-</jugador>
-<jugador>
-<nombre>Alek</nombre>
-<edad>35</edad>
-<sueldo>1400</sueldo>
-<tipo>Titular</tipo>
-</jugador>
-</equipo>
+    <equipo category="equipo3">
+        <title lang ="es"> Equipo 3 </title>
+        <nombreEquipo> Los Poogramadores </nombreEquipo>
+        <ranking> 1 </ranking>
+        <jugador>
+            <nombre>JR</nombre>
+            <edad>19</edad>
+            <sueldo>1399</sueldo>
+            <tipo>Suplente</tipo>
+        </jugador>
+        <jugador>
+            <nombre>Alejo</nombre>
+            <edad>29</edad>
+            <sueldo>1400</sueldo>
+            <tipo>Titular</tipo>
+        </jugador>
+        <jugador>
+            <nombre>Paquito</nombre>
+            <edad>23</edad>
+            <sueldo>7600</sueldo>
+            <tipo>Titular</tipo>
+        </jugador>
+        <jugador>
+            <nombre>Hestia</nombre>
+            <edad>99</edad>
+            <sueldo>9800</sueldo>
+            <tipo>Titular</tipo>
+        </jugador>
+        <jugador>
+            <nombre>Zeus</nombre>
+            <edad>89</edad>
+            <sueldo>1400</sueldo>
+            <tipo>Titular</tipo>
+        </jugador>
+        <jugador>
+            <nombre>Bardo</nombre>
+            <edad>16</edad>
+            <sueldo>5600</sueldo>
+            <tipo>Titular</tipo>
+        </jugador>
+        <jugador>
+            <nombre>Naruto</nombre>
+            <edad>59</edad>
+            <sueldo>1230</sueldo>
+            <tipo>Titular</tipo>
+        </jugador>
+        <jugador>
+            <nombre>Geralt</nombre>
+            <edad>67</edad>
+            <sueldo>3000</sueldo>
+            <tipo>Titular</tipo>
+        </jugador>
+        <jugador>
+            <nombre>Asta</nombre>
+            <edad>23</edad>
+            <sueldo>49</sueldo>
+            <tipo>Titular</tipo>
+        </jugador>
+        <jugador>
+            <nombre>Luffy</nombre>
+            <edad>35</edad>
+            <sueldo>9000</sueldo>
+            <tipo>Titular</tipo>
+        </jugador>
+        <jugador>
+            <nombre>Alek</nombre>
+            <edad>35</edad>
+            <sueldo>1400</sueldo>
+            <tipo>Titular</tipo>
+        </jugador>
+    </equipo>
 
-<equipo category="equipo4">
-<title lang ="es"> Equipo 4 </title>
-<nombreEquipo> Los Cracks </nombreEquipo>
-<ranking> 2 </ranking>
-<jugador>
-<nombre>Karma</nombre>
-<edad>39</edad>
-<sueldo>2400</sueldo>
-<tipo>Suplente</tipo>
-</jugador>
-<jugador>
-<nombre>Michael</nombre>
-<edad>17</edad>
-<sueldo>1490</sueldo>
-<tipo>Titular</tipo>
-</jugador>
-<jugador>
-<nombre>Benji</nombre>
-<edad>24</edad>
-<sueldo>3000</sueldo>
-<tipo>Titular</tipo>
-</jugador>
-<jugador>
-<nombre>Piloto</nombre>
-<edad>17</edad>
-<sueldo>6799</sueldo>
-<tipo>Titular</tipo>
-</jugador>
-<jugador>
-<nombre>Saber</nombre>
-<edad>34</edad>
-<sueldo>2100</sueldo>
-<tipo>Titular</tipo>
-</jugador>
-<jugador>
-<nombre>Lancer</nombre>
-<edad>19</edad>
-<sueldo>6700</sueldo>
-<tipo>Titular</tipo>
-</jugador>
-<jugador>
-<nombre>Démeter</nombre>
-<edad>23</edad>
-<sueldo>4500</sueldo>
-<tipo>Titular</tipo>
-</jugador>
-<jugador>
-<nombre>Hee Hee</nombre>
-<edad>99</edad>
-<sueldo>570</sueldo>
-<tipo>Titular</tipo>
-</jugador>
-<jugador>
-<nombre>Lelouch</nombre>
-<edad>19</edad>
-<sueldo>1500</sueldo>
-<tipo>Titular</tipo>
-</jugador>
-<jugador>
-<nombre>Senju</nombre>
-<edad>19</edad>
-<sueldo>9000</sueldo>
-<tipo>Titular</tipo>
-</jugador>
-<jugador>
-<nombre>Jotaro</nombre>
-<edad>19</edad>
-<sueldo>1000</sueldo>
-<tipo>Titular</tipo>
-</jugador>
-</equipo>
+    <equipo category="equipo4">
+        <title lang ="es"> Equipo 4 </title>
+        <nombreEquipo> Los Cracks </nombreEquipo>
+        <ranking> 2 </ranking>
+        <jugador>
+            <nombre>Karma</nombre>
+            <edad>39</edad>
+            <sueldo>2400</sueldo>
+            <tipo>Suplente</tipo>
+        </jugador>
+        <jugador>
+            <nombre>Michael</nombre>
+            <edad>17</edad>
+            <sueldo>1490</sueldo>
+            <tipo>Titular</tipo>
+        </jugador>
+        <jugador>
+            <nombre>Benji</nombre>
+            <edad>24</edad>
+            <sueldo>3000</sueldo>
+            <tipo>Titular</tipo>
+        </jugador>
+        <jugador>
+            <nombre>Piloto</nombre>
+            <edad>17</edad>
+            <sueldo>6799</sueldo>
+            <tipo>Titular</tipo>
+        </jugador>
+        <jugador>
+            <nombre>Saber</nombre>
+            <edad>34</edad>
+            <sueldo>2100</sueldo>
+            <tipo>Titular</tipo>
+        </jugador>
+        <jugador>
+            <nombre>Lancer</nombre>
+            <edad>19</edad>
+            <sueldo>6700</sueldo>
+            <tipo>Titular</tipo>
+        </jugador>
+        <jugador>
+            <nombre>Démeter</nombre>
+            <edad>23</edad>
+            <sueldo>4500</sueldo>
+            <tipo>Titular</tipo>
+        </jugador>
+        <jugador>
+            <nombre>Hee Hee</nombre>
+            <edad>99</edad>
+            <sueldo>570</sueldo>
+            <tipo>Titular</tipo>
+        </jugador>
+        <jugador>
+            <nombre>Lelouch</nombre>
+            <edad>19</edad>
+            <sueldo>1500</sueldo>
+            <tipo>Titular</tipo>
+        </jugador>
+        <jugador>
+            <nombre>Senju</nombre>
+            <edad>19</edad>
+            <sueldo>9000</sueldo>
+            <tipo>Titular</tipo>
+        </jugador>
+        <jugador>
+            <nombre>Jotaro</nombre>
+            <edad>19</edad>
+            <sueldo>1000</sueldo>
+            <tipo>Titular</tipo>
+            </jugador>
+    </equipo>
 </equipofutbol>
