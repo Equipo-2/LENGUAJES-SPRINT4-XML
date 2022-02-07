@@ -2,7 +2,8 @@
 
 <servicios>
 
-  <evento category="cateringDesayuno">
+  <evento category="desayuno">
+    <service>Catering Desayuno</service>
     <drink temperature="hot">Coffee</drink>
     <drink temperature="cold">Juice</drink>
     <food type="starter">Fruit</food>
@@ -12,7 +13,8 @@
     <price age="child">3,5 €</price>
   </evento>
 
-  <evento category="cateringAlmuerzo">
+  <evento category="almuerzo">
+    <service>Catering Almuerzo</service>
     <drink temperature="cold">Beer</drink>
     <drink temperature="cold">Soft driks</drink>
     <food type="starter">Gazpacho</food>
@@ -23,7 +25,8 @@
     <price age="child">10 €</price>
   </evento>
 
-  <evento category="cateringBrunch">
+  <evento category="brunch">
+    <service>Catering Brunch</service>
     <drink temperature="hot">Coffee</drink>
     <drink temperature="hot">Tea</drink>
     <food type="starter">Biscuits</food>
@@ -31,7 +34,8 @@
     <price age="child">2 €</price>
   </evento>
 
-  <evento category="cateringCena">
+  <evento category="cena">
+    <service>Catering Cena</service>
     <drink temperature="cold">Wine</drink>
     <drink temperature="cold">Soft driks</drink>
     <food type="starter">Pasta</food>
