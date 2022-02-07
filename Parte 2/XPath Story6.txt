@@ -1,0 +1,80 @@
+1-/menuRestaurante/plato[@category="postre"]//nombre
+Brownie
+Natillas caseras
+Tarta de zanahoria
+
+2-/menuRestaurante/plato[precio<10]//precio
+7.0
+5.0
+5.5
+8.0
+7.5
+5
+3
+5
+
+3-/menuRestaurante/plato[*][ingredientes="Pescado"]//nombre
+4-/menuRestaurante/plato[last()]//nombre
+Tarta de zanahoria
+5-/menuRestaurante/plato//nombre
+Tabla de jamón ibérico
+Tabla de queso de oveja
+Anchoas del cantábrico
+Rabo de ternera en su jugo
+Plato de los montes
+Huevo roto con criollo
+Croquetas de bacalao
+Brownie
+Natillas caseras
+Tarta de zanahoria
+
+6-/menuRestaurante//plato//nombre | /menuRestaurante//ingredientes[1]
+Tabla de jamón ibérico
+Jamón ibérico
+Tabla de queso de oveja
+Queso de oveja, sin oveja
+Anchoas del cantábrico
+Anchoas
+Rabo de ternera en su jugo
+Ternera
+Plato de los montes
+Lomo de cerdo
+Huevo roto con criollo
+Criollo
+Croquetas de bacalao
+Bacalao
+Brownie
+Chocolate
+Natillas caseras
+Leche
+Tarta de zanahoria
+Huevo
+
+7- Segundo ingrediente y todos los platos
+/menuRestaurante/plato[*]//nombre,//ingredientes[2]
+Tabla de jamón ibérico
+Tabla de queso de oveja
+Anchoas del cantábrico
+Rabo de ternera en su jugo
+Plato de los montes
+Huevo roto con criollo
+Croquetas de bacalao
+Brownie
+Natillas caseras
+Tarta de zanahoria
+Aceite de oliva
+Aceite de oliva
+Jugo de ternera
+Morcilla
+Huevo roto
+Harina
+Helado de vainilla
+Yemas de huevo
+Azúcar
+8- Platos y Postres y su primer ingrediente
+/menuRestaurante/plato[*][@category="postre"]//nombre,//ingredientes[1]
+9- Solo entrantes
+/menuRestaurante/plato[@category="entrante"]//nombre
+Tabla de jamón ibérico
+Tabla de queso de oveja
+Anchoas del cantábrico
