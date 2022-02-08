@@ -17,6 +17,7 @@ Todos los equipos y sus integrantes
 
 for $equipo in doc ("equipoFutbol.xml")//equipo
 return $equipo/nombreEquipo | $equipo/jugador/nombre
+
 Sueldo menor a 3000
 
 for $equipo in doc ("equipoFutbol.xml")//equipo/jugador where $equipo/sueldo<3000
