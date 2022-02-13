@@ -1,0 +1,29 @@
+1. for $menu in doc ("story3.xml")//plato[starts-with(@category,"postre")]/nombre
+return $menu
+
+2. for $menu in doc ("story3.xml")//plato[precio<10]/nombre
+return $menu
+
+3. for $menu in doc ("story3.xml")//plato[ingredientes="Huevo"]/nombre
+return $menu
+
+4. for $menu in doc ("story3.xml")//plato[last()]/nombre
+return $menu
+
+5. for $menu in doc ("story3.xml")//plato/nombre
+return $menu
+
+6. for $menu in doc ("story3.xml")//plato 
+return $menu/nombre | $menu /ingredientes[1]
+
+7. Seleccionamos el segundo ingrediente de todos los platos 
+for $menu in doc ("story3.xml")//plato 
+return $menu/nombre | $menu /ingredientes[2]
+
+8. Seleccionamos el primer plato de la lista
+for $menu in doc ("story3.xml")//plato[1]/nombre
+return $menu
+
+9. Seleccionamos los platos mayor a 10€
+for $menu in doc ("story3.xml")//plato[precio>10]/nombre
+return $menu
