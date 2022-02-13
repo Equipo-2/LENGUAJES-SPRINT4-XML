@@ -1,0 +1,21 @@
+1. for $servicios in doc ("story5.xml")//evento/service
+return $servicios
+
+2. for $servicios in doc ("story5.xml")//evento[last()]/service
+return $servicios
+
+3. for $servicios in doc ("story5.xml")//evento[starts-with(@category,"almuerzo")]
+return $servicios /service | $servicios /price
+
+4. Precio de niños en cada catering:
+for $servicios in doc ("story5.xml")//evento
+return $servicios /service | $servicios /price[2]
+
+5. Catering con un precio superior a 7
+for $x in doc("story5.xml")/servicios/evento
+where $x/price>7
+return $x/service
+
+6. Catering donde se sirvan "Soft drinks" como bebida
+for $servicios in doc ("story5.xml")//servicios/evento where $servicios/drink="Soft driks"
+return $servicios/service
