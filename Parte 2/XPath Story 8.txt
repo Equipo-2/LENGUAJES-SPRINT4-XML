@@ -14,23 +14,23 @@ Catering Cena
     Soft driks
     Pasta
     Pizza
-    9 €
-    7 €
+    9
+    7
 
 3. Ejercicio 3
 /servicios//evento[@category="brunch"]//service | /servicios//evento[@category="brunch"]//price
 
 Catering Brunch
-3 €
-2 €
+3
+2
 
 4. Ejercicio 4
 4.1:
 /servicios//evento[@category = "desayuno"]//service | /servicios//evento[@category = "desayuno"]//price
 
 Catering Desayuno
-5 €
-3,5 €
+5
+3
 
 4.2:
 /servicios//evento[@category = "desayuno"]//food
